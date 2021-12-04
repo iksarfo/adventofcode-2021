@@ -13,7 +13,14 @@ Googling every other thing for syntax
 ### Day #2 ###
 A little more natural
 
-> * Prefering the Python to Go
+> * Preferring the Python to Go
 >   * Without concurrency why wouldn't you?
 > * Pretty sure neither is idiomatic here
 > * There must be a better way of running Go than dropping to commandline
+
+### Day #3 ###
+Really missing my ternary operator & LINQ
+
+> * Completing solutions first in Go
+> * Is there really no map, filter & reduce?
+>   * Could I substitute channels for pipelines, passing in func arguments? :)
