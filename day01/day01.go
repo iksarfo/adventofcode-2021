@@ -16,7 +16,7 @@ func main() {
 }
 
 func part01() (*int, error) {
-	file, err := os.Open("day01/input.txt")
+	file, err := os.Open("input.txt")
 	if err != nil {
 		return nil, err
 	}
