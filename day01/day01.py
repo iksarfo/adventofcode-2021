@@ -1,6 +1,6 @@
 from queue import Queue
 
-f = open("day01/input.txt", "r")
+f = open("input.txt", "r")
 lines = f.readlines()
 stripped = map(str.strip, lines)
 depths = list(map(int, stripped))

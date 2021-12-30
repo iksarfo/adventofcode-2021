@@ -26,7 +26,7 @@ forward 2"""
 
 assert horizontal_depth(example.split('\n')) == 150
 
-f = open("day02/input.txt", "r")
+f = open("input.txt", "r")
 lines = f.readlines()
 print('part 1 =', horizontal_depth(lines))
 ##########################################
